@@ -16,7 +16,7 @@ Managing a business for six years allowed me to see first-hand the power and imp
 
 Realising that technology is an indispensable aspect of the world we live in today, my interest for technology grew ever more, which naturally led me to teaching myself to code before eventually joining Makers.
 
-I am a highly motivated and determined individual, with an appetite for learning. I have a proven track-record for delivering results and enjoy the challenges that come with every unique problem. The core programming fundamentals I have acquired through Makers combined with the soft skills I have honed over the years as a businessman, has made me into a competent developer.
+I am a highly motivated and determined individual, with an appetite for learning. I have a proven track-record for delivering results and enjoy the challenges that come with every unique problem. The core programming fundamentals I have acquired through Makers combined with the soft skills I have honed over the years as a businessman, has made me into a well rounded developer.
 
 I am currently looking for a role that will enable me to continue my learning and growth.
 
