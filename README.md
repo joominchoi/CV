@@ -20,8 +20,6 @@ I am a highly motivated and determined individual, with an appetite for learning
 
 I am currently looking for a role that will enable me to continue my learning and growth.
 
-<br>
-
 ## **Projects**
 | Name | Description | Tech/Tools |
 | ------------- | ------------- | ------------ | 
@@ -29,8 +27,6 @@ I am currently looking for a role that will enable me to continue my learning an
 | <a href="https://github.com/jooomin/notes_app">Notesapp</a>  | *a web app for taking notes*  | Ruby on Rails, PostgreSQL, Rspec, CSS |
 | <a href="https://github.com/jooomin/acebook-smells-like-team-spirit">Acebook</a>  | *a full-stack web app imitating the basic functions of Facebook*  | Javascript, HTML, CSS |
 | <a href="https://github.com/jooomin/dogbnb">DogBnB</a>  | *a full-stack web app inspired by Airbnb*  | Ruby, Rspec, Capybara, CSS, HTML |
-
-<br>
 
 ## Work Experience
 
@@ -50,9 +46,6 @@ I am currently looking for a role that will enable me to continue my learning an
 -	Turned a previously unknown business into the go-to place
 -	Revenue increased annually
 
-
-<br>
-
 ## Skills
 
 **Communication**: Effective communication and conflict resolution was the single most important skill that was required of my job as a bar owner and one that I have developed the most over the years. Listening well to my staff and customers for any ideas or problems they may have, as well as conveying information competently on both a technical and emotional level was my key to success in retaining staff and customers, but most importantly, keeping everyone happy. This skill was heavily used at Makers during the daily pair-programming sessions at the beginning of the course and proved crucial towards the end whilst collaborating in teams for our group projects.
@@ -67,14 +60,11 @@ I am currently looking for a role that will enable me to continue my learning an
 An intensive and highly selective 16 week coding boot camp based in London. The course focuses on equipping students with the know-how to constantly learn and develop their programming ability in a holistic environment. The course not only focuses on coding but also other crucial soft skills such as teamwork, how to work in an agile environment and methods to manage a healthy work-life balance. 
 
 
-**Languages**
-Ruby, JavaScript, SQL, HTML/CSS
+**Languages**:Ruby, JavaScript, SQL, HTML/CSS
 
-**Frameworks**
-Ruby on Rails, RSpec, Jasmine, React, Sinatra
+**Frameworks**: Ruby on Rails, RSpec, Jasmine, React, Sinatra
 
-**DBMS**
-PostgreSQL
+**DBMS**: PostgreSQL
 
 **Other skills**
 - Clean code
