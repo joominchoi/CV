@@ -1,6 +1,6 @@
 # <p align="center">JOOMIN CHOI</p>
 
-### <p align="center"> <em> A full-stack developer with a background in business </em> </p>
+### <p align="center"> <em> A junior full-stack developer with a background in business </em> </p>
 
 <p align="center">
   <a href="#projects">Projects</a> |
