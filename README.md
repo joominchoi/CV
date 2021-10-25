@@ -39,7 +39,7 @@ I am currently looking for a role that will enable me to continue my learning an
 -	Researched and analysed latest products and trends in order to continuously upgrade business and keep it competitive
 -	Negotiated with suppliers to ensure we received the best pricing
 -	Responsible for communicating with customers to ensure high customer satisfaction and retention
-- Regularly organised viewings of sporting events for up to 150 people
+- Regularly organised viewings of sporting events and comedy nights for up to 150 people
 
 **Achievements**
 -	Started a business from the ground up, while wearing every hat of the company
