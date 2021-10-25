@@ -36,7 +36,7 @@ I am currently looking for a role that will enable me to continue my learning an
 -	Trained and supervised staff, managing up to six at one time
 -	Handled both offline and online marketing, including social media, promotional schemes and events
 -	Managed inventory levels 
--	Researched and analysed latest products and trends in order to continuously upgrade business and keep it competitive
+-	Researched and analysed latest products and trends in order to continuously upgrade business and keep it competitive: introduction of karaoke rooms, pool tables and 153-inch projector screen
 -	Negotiated with suppliers to ensure we received the best pricing
 -	Responsible for communicating with customers to ensure high customer satisfaction and retention
 - Regularly organised viewings of sporting events and comedy nights for up to 150 people
