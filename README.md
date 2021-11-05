@@ -24,8 +24,8 @@ I am currently looking for a role that will enable me to continue my learning an
 | Name | Description | Tech/Tools |
 | ------------- | ------------- | ------------ | 
 | <a href="https://github.com/jooomin/tricera-cops">Triceracops</a>  | *a murder-mystery escape room style game, final project at Makers*  | React, JSX, Bootstrap |
-| <a href="https://github.com/jooomin/notes_app">Notesapp</a>  | *a web app for taking notes*  | Ruby on Rails, PostgreSQL, Rspec, CSS |
-| <a href="https://github.com/jooomin/acebook-smells-like-team-spirit">Acebook</a>  | *a full-stack web app imitating the basic functions of Facebook*  | Javascript, HTML, CSS |
+| <a href="https://github.com/jooomin/notes_app">Notesapp</a>  | *a web app for taking notes*  | JavaScript, HTML, CSS |
+| <a href="https://github.com/jooomin/acebook-smells-like-team-spirit">Acebook</a>  | *a full-stack web app imitating the basic functions of Facebook*  | Ruby on Rails, PostgreSQL, Rspec, CSS |
 | <a href="https://github.com/jooomin/dogbnb">DogBnB</a>  | *a full-stack web app inspired by Airbnb*  | Ruby, Rspec, Capybara, CSS, HTML |
 
 ## Work Experience
