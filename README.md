@@ -32,19 +32,19 @@ I am currently looking for a role that will enable me to continue my learning an
 
 ### SingSing Bar - Owner & Manager (July 2014 – March 2020)
 **Responsibilities**
--	Managed day to day operations of busy bar
--	Trained and supervised staff, managing up to six at one time
+- Responsible for communicating with customers to ensure high customer satisfaction and retention
+-	Oversaw finances to make sure revenue projections were being met
+-	Researched and analysed latest products and trends in order to continuously adapt business
+-	Negotiated with suppliers to secure best pricing and maintain strong relationship
+-	Supervised and trained staff, managing up to six at one time
+-	Planned and organised viewings of sporting events and comedy nights for up to 150 people
 -	Handled both offline and online marketing, including social media, promotional schemes and events
--	Managed inventory levels 
--	Researched and analysed latest products and trends in order to continuously upgrade business and keep it competitive: introduction of karaoke rooms, pool tables and 153-inch projector screen
--	Negotiated with suppliers to ensure we received the best pricing
--	Responsible for communicating with customers to ensure high customer satisfaction and retention
-- Regularly organised viewings of sporting events and comedy nights for up to 150 people
 
 **Achievements**
--	Started a business from the ground up, while wearing every hat of the company
--	Turned a previously unknown business into the go-to place
--	Revenue increased annually
+-	Started a successful business from the ground up, while wearing every hat of the company
+-	Demonstrated resilience and perseverance to turn a previously unknown bar into the go-to place
+-	Revenue increased annually by 50%
+-	Daily requirement to motivate myself and take initiative in building a business whilst learning the trade myself 
 
 ## Skills
 
