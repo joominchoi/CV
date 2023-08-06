@@ -1,6 +1,6 @@
 # <p align="center">JOOMIN CHOI</p>
 
-### <p align="center"> <em> A junior full-stack developer with a background in business </em> </p>
+### <p align="center"> <em> A junior software developer with a background in business </em> </p>
 
 <p align="center">
   <a href="#projects">Projects</a> |
@@ -12,13 +12,9 @@
 
 ## About me
 
-Managing a business for six years allowed me to see first-hand the power and importance of technology.  From switching to an EPOS to creating a website as well as running promotions on the various social media platforms, I experienced how efficient and valuable these tools are, both for companies and customers alike.
+I am a junior software developer with expertise in product-led growth and experimentation. I was most recently a member of the cross-functional growth squad at ClearScore where I built experimental features that drove user and revenue growth.
 
-Realising that technology is an indispensable aspect of the world we live in today, my interest for technology grew ever more, which naturally led me to teaching myself to code before eventually joining Makers.
-
-I am a highly motivated and determined individual, with an appetite for learning. I have a proven track-record for delivering results and enjoy the challenges that come with every unique problem. The core programming fundamentals I have acquired through Makers combined with the soft skills I have honed over the years as a businessman, has made me into a well rounded developer.
-
-I am currently looking for a role that will enable me to continue my learning and growth.
+I am currently looking to transition into front-end role that will enable me to continue my learning and growth.
 
 ## **Projects**
 | Name | Description | Tech/Tools |
@@ -30,7 +26,30 @@ I am currently looking for a role that will enable me to continue my learning an
 
 ## Work Experience
 
-### SingSing Bar - Owner & Manager (July 2014 – March 2020)
+### iOS Developer - ClearScore (April 2022 – July 2023)
+
+iOS Developer in a growth team where we hypothesise, experiment, learn and iterate on features with an emphasis on speed to gain insights from the market as quickly as possible, while maintaining high code quality.
+**Responsibilities**
+- Push notification re-prompt in various parts of app:
+  • +40.8% Push opt-ins (+30k)
+- Creation of custom banner UI and modal for Triple Lock explainer experiment:
+  • +9.45% uplift in product list view
+- Developed winter prize draw campaign which drove:
+  • +22% Apply clicks (+15k)
+  • +106% Mobile app installs (+49k)
+  • +217% Open banking connections (+95k)
+  • App to #1 in the Finance category
+- Plain numbers experiment
+- Implementation of trackers to track analytics of experiments
+- Led 3 weekly releases
+- Set up Sentry dashboard and alerts
+- Adding unit tests and snapshot tests
+- Identifying edge case scenarios that provide a poor user experience
+- Uploading assets to backend services
+- Copy changes and creation of separate localisation keys for market preferences
+- Creating and updating documentation
+
+### Owner & Manager - Sing Sing Bar (July 2014 – July 2020)
 **Responsibilities**
 - Responsible for communicating with customers to ensure high customer satisfaction and retention
 -	Oversaw finances to make sure revenue projections were being met
@@ -60,23 +79,13 @@ I am currently looking for a role that will enable me to continue my learning an
 An intensive and highly selective 16 week coding boot camp based in London. The course focuses on equipping students with the know-how to constantly learn and develop their programming ability in a holistic environment. The course not only focuses on coding but also other crucial soft skills such as teamwork, how to work in an agile environment and methods to manage a healthy work-life balance. 
 
 
-**Languages**:Ruby, JavaScript, SQL, HTML/CSS
+**iOS Specific**: Swift, SwiftUI, UIKit, Swift Package Manager, DI, MVVM, VIPER, Xcode
 
-**Frameworks**: Ruby on Rails, RSpec, Jasmine, React, Sinatra
+**Technical**: Git, Github, Jira, Sentry, Amplitude, Firebase, Crashlytics, Unit testing, Snapshot testing, Proxyman, Charles
 
-**DBMS**: PostgreSQL
+Ruby, JavaScript, SQL, HTML/CSS
 
-**Other skills**
-- Clean code
-- Agile/XP Values
-- Test Driven Development (TDD)
-- Object-Oriented Programming (OOP)
-- Model, View, Controller structure (MVC)
-- Project planning (MVP, modelling, wireframes, collaboration tools)
-- Self-directed learning
-- Pair programming
-- Feedback culture
-- Holistic learning
+**General**: A/B Testing, Strong Communication skills, Problem Solving, Documenting and Sharing Knowledge
 
 ### Cass Business School 
 Year 1: Management BSc
@@ -84,16 +93,9 @@ Year 1: Management BSc
 ### A-levels
 Biology, Economics, Mathematics: BBB 
 
-### GCSEs
-2A*s & 8As
-
 ## Interests and Hobbies
-📚 **Reading**: I enjoy reading books of all genres. I am currently making my way through Haruki Murakami's fantastical and mysterious works of literature.
+🏋🏼 **Fitness**: Regular exercise is an essential part of my lifestyle to improve not only my physical health but also my mental health. I am currently doing Crossfit and strength training in the gym as my daily routine whilst enjoying learning new sports such as tennis and golf.
 
-🍿 **Films**: I am a huge fan of science-fiction films. My current top picks would be the thought provoking Interstellar and Ex Machina.
+📚 **Reading**: I enjoy reading books of all genres. I am currently in the phase of enjoying autobiographical books and working my through “Shoe Dog” by Phil Knight.
 
-🧑🏼‍🍳 **Cooking**: I love cooking. There is nothing quite like cooking up a feast and enjoying the company of friends and family. 
-
-🏋🏼 **Working-out**: Regular exercise is an essential part of my lifestyle to improve not only my physical health but also my mental health.
-
-🕹 **Gaming**: As well as enjoying gaming to take a break, following the technological advancements in the gaming industry over the years has always been an interest of mine and something I look forward to in the future as well.
+🍿 **Films**: I am a huge fan of science-fiction films and closely follow any works produced by Christopher Nolan and Denis Villeneuve.
